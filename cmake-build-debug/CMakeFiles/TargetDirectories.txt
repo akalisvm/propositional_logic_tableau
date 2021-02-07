@@ -1,0 +1,3 @@
+/cygdrive/e/UCL_CS/COMP0009/Assessed Logic Coursework/logic coursework project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/UCL_CS/COMP0009/Assessed Logic Coursework/logic coursework project/cmake-build-debug/CMakeFiles/logic_coursework_project.dir
+/cygdrive/e/UCL_CS/COMP0009/Assessed Logic Coursework/logic coursework project/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/logic_coursework_project.dir/tableau.c.o  -o logic_coursework_project.exe -Wl,--out-implib,liblogic_coursework_project.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

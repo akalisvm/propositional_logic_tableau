@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="logic_coursework_project" targetName="logic_coursework_project" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81a06d30-0689-444f-8b21-c20bc5fb5402" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1m3ldbI47oZ1CgEWsoJHw4arx6c" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="logic_coursework_project" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="logic_coursework_project" TARGET_NAME="logic_coursework_project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="logic_coursework_project" RUN_TARGET_NAME="logic_coursework_project">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81a06d30-0689-444f-8b21-c20bc5fb5402" name="Default Changelist" comment="" />
+      <created>1608730243983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608730243983</updated>
+      <workItem from="1608730246296" duration="1939000" />
+      <workItem from="1608778655263" duration="110000" />
+      <workItem from="1608813027044" duration="602000" />
+      <workItem from="1608984557292" duration="679000" />
+      <workItem from="1609029910327" duration="61000" />
+      <workItem from="1609287730737" duration="1000" />
+      <workItem from="1610734288993" duration="1017000" />
+      <workItem from="1610735446714" duration="1402000" />
+      <workItem from="1610777871949" duration="5631000" />
+      <workItem from="1610800007761" duration="1406000" />
+      <workItem from="1610872456965" duration="57000" />
+      <workItem from="1610874763519" duration="50000" />
+      <workItem from="1612675683258" duration="205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

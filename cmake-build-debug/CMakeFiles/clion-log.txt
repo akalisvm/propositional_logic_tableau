@@ -1,0 +1,4 @@
+C:\Users\Kchiyoh\.CLion2019.2\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/cygdrive/e/UCL_CS/COMP0009/Assessed Logic Coursework/logic coursework project"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/e/UCL_CS/COMP0009/Assessed Logic Coursework/logic coursework project/cmake-build-debug

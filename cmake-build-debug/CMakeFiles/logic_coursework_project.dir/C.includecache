@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/UCL_CS/COMP0009/Assessed Logic Coursework/logic coursework project/tableau.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
